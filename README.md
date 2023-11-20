@@ -5,4 +5,4 @@ This folder is intended to contain the constraints on axion couplings, specifica
 
 Updated as of 2023.11.17:
 
-The SC limits data has been updated using an improved calculation method that includes a more accurate assessment of background noise, while the averaged sensitivity remains unchanged. The HSR-SC combined limits, with enhanced sensitivity between the two, have been uploaded (named as All_gann/gapp.txt and utilized for the main-text figure), along with their separate limits.
+The SC limits data has been updated using an improved calculation method that includes a more accurate assessment of background noise, which slightly improves the statistical fluctuation of the sensitivity, while the averaged sensitivity remains unchanged. The HSR-SC combined limits, with enhanced sensitivity between the two, have been uploaded (named as All_gann/gapp.txt and utilized for the main-text figure), along with their separate limits.
